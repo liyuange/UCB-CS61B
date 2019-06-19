@@ -7,3 +7,8 @@ allocate 分配
 Java allocates exactly a box of size 64 bits, no matter what tyoe of object.
 引用类型不管什么对象都是64bits，即内存的地址。
 对象赋值是把两个对象指向同一块内存。本质是内存地址的复制。
+
+recursive 递归的
+subordinate 从属的
+sentinel 哨兵
+invariant 恒定的
