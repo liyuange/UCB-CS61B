@@ -12,3 +12,6 @@ recursive 递归的
 subordinate 从属的
 sentinel 哨兵
 invariant 恒定的
+
+generic 通用的
+parametrized 参数化 
