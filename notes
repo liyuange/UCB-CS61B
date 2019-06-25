@@ -19,3 +19,6 @@ parametrized 参数化
 Lecture 5
 If X is a superclass of Y, then memory boxes for X may contains Y.
 Every variable in Java has a compile-time type/static type. This is the type specified at declaration. Never changes.
+All constructors must start with a call to one of the super class's constructors.
+如果为指定构造函数的super方法，会默认使用无参数的默认构造方法。
+encapsulation 封装
