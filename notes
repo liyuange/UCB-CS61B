@@ -15,3 +15,7 @@ invariant 恒定的
 
 generic 通用的
 parametrized 参数化 
+
+Lecture 5
+If X is a superclass of Y, then memory boxes for X may contains Y.
+Every variable in Java has a compile-time type/static type. This is the type specified at declaration. Never changes.
