@@ -24,3 +24,6 @@ All constructors must start with a call to one of the super class's constructors
 encapsulation 封装
 Overriding only applies to non-static methods.
 Polymorphism: providing a single interface to entities of different types.
+
+Lecture 6
+"=="比较地址，equals比较对象内容
